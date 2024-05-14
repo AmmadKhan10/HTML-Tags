@@ -1,0 +1,47 @@
+.Main-container, .container-2, .container-3,.container-4, .container-5 {
+    display: flex;
+}
+.right {
+    width: 40%;
+}
+.left {
+    width: 40%;
+}
+.list {
+    left: 20px;
+    border: 3px solid black;
+    width: 30%;
+    line-height: 2vw;
+}
+.heading {
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 1vw;
+}
+.grocery {
+    margin-left: 9vw;
+    line-height: 2vw;
+}
+.right img {
+    width: 300px;
+    height: 200px;
+}
+.child-4 {
+    margin-left: 2vw;
+}
+.container-5  {
+    gap: 8vw;
+}
+
+table, th, td {
+    border: 1px solid red;
+    
+}
+table {
+    width: 30%;
+    margin: auto;
+    margin-bottom: 5vw;
+}
+.table-class h1 {
+text-align: center;
+}
